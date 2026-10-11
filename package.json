@@ -1,0 +1,1 @@
+{"name":"backend_notifications","version":"1.0.0","private":true,"engines":{"node":"22.x"},"scripts":{"test":"node --test tests/*.test.js","set-admin":"node scripts/set-admin.cjs"},"dependencies":{"firebase-admin":"^13.0.0"}}
